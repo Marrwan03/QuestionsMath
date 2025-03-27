@@ -18,6 +18,8 @@
 
 <h4 align="left">i build this game as a task to practise by function and procedure and using DataStructure.</h4>
 
+
+<br clear="both">
 ###
 
 <h2 align="left">Features:</h2>
