@@ -1,8 +1,8 @@
-<h1 align="center">Questions <br>Math</h1>
+<h1 align="center">🧮Questions <br>Math</h1>
 
 ###
 
-<h2 align="left">Elevator Pitch:</h2>
+<h2 align="left">👀Elevator Pitch:</h2>
 
 ###
 
