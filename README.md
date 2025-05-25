@@ -6,11 +6,11 @@
 
 ###
 
-<h4 align="left">Question Math Game Game play using functionatly and using datastructure.</h4>
+<h4 align="left">Question Math Game:A Game play using functionatly and using datastructure.</h4>
 
 ###
 
-<h2 align="left">The goal and the problem it solves:</h2>
+<h2 align="left">🎯The goal and the problem it solves:</h2>
 
 ###
 
@@ -21,29 +21,29 @@
 
 ###
 
-<h2 align="left">Features:</h2>
+<h2 align="left">🛠️Features:</h2>
 
 ###
 
-<h4 align="left">1- Requarment Game: it has requarment for the game like {Level, NumberOfRound,etc..}.</h4>
+<h4 align="left">1️⃣ Requarment Game: it has requarment for the game like {Level, NumberOfRound,etc..}.</h4>
 
 ###
 
-<h4 align="left">2- Play Game: Each question has 30 second for answer it with Options and you can use help operation only once.</h4>
+<h4 align="left">2️⃣ Play Game: Each question has 30 second for answer it with Options and you can use help operation only once.</h4>
 
 ###
 
-<h4 align="left">3- Result Game: board has two colors Red,Green if you win your board will be green other than this it will be red and it has info for game.</h4>
+<h4 align="left">3️⃣ Result Game: board has two colors Red,Green if you win your board will be green other than this it will be red and it has info for game.</h4>
 
 ###
 
-<h4 align="left">4- All Player: any player plays you will see him in the view with data like{Gender, isPass?,etc...}</h4>
+<h4 align="left">4️⃣ All Player: any player plays you will see him in the view with data like{Gender, isPass?,etc...}</h4>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">Techniques and tools used:</h2>
+<h2 align="left">🧰Techniques and tools used:</h2>
 
 ###
 
@@ -53,7 +53,7 @@
 
 <br clear="both">
 
-<h2 align="left">Challenges and how to overcome them:</h2>
+<h2 align="left">🧱Challenges and how to overcome them:</h2>
 
 ###
 
@@ -61,7 +61,7 @@
 
 ###
 
-<h2 align="left">Video About Project:</h2>
+<h2 align="left">🎥Video About Project:</h2>
 
 ###
 
@@ -75,7 +75,7 @@
 
 <br clear="both">
 
-<h2 align="left">End message:</h2>
+<h2 align="left">✉️End message:</h2>
 
 ###
 
